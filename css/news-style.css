@@ -1,0 +1,151 @@
+/* add header  */
+.news-header {
+  display: inline-block;
+  vertical-align: middle;
+}
+.news-nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+.news-li {
+  display: inline-block;
+  margin: 29px 18px 0 0;
+}
+.news-header img {
+  margin: 28px 50px 0 42px;
+}
+.news-li a {
+  font-size: 22px;
+}
+.new-li {
+  color: #3d58a6;
+}
+.wraper {
+  color: red;
+}
+
+/* add articels */
+
+.article1-div {
+  width: 56px;
+  height: 56px;
+  background-color: #3d58a6;
+}
+.article1-div p {
+  color: #ffffff;
+  font-size: 37px;
+  text-align: center;
+  padding-top: 10px;
+}
+.maisi {
+  font-size: 22px;
+  color: #3d58a6;
+  margin-bottom: 18px;
+}
+
+.news-left-div {
+  display: inline-block;
+  width: 270px;
+  height: 210px;
+  margin-right: 30px;
+}
+.news-left-div img {
+  width: 100%;
+  height: 100%;
+}
+.news-right-div {
+  display: inline-block;
+  width: 850px;
+  vertical-align: top;
+}
+.article1 {
+  margin-left: 42px;
+  margin-top: 40px;
+}
+.article1 h2 {
+  margin-bottom: 18px;
+  font-size: 20px;
+}
+.news-right-div p {
+  font-size: 16px;
+}
+
+/* add article2 */
+.article2 {
+  margin-left: 42px;
+}
+.article2-div {
+  width: 56px;
+  height: 56px;
+  background-color: #3d58a6;
+}
+.article2-div p {
+  font-size: 48px;
+  color: white;
+}
+.article2-left-div {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 39px;
+}
+.article2-right-div {
+  display: inline-block;
+  width: 850px;
+}
+.article2-right-div p {
+  font-size: 16px;
+}
+.article2 h2 {
+  margin-bottom: 18px;
+  font-size: 20px;
+}
+
+/* add article3  */
+.article3 {
+  margin-left: 42px;
+}
+.article3-div {
+  width: 56px;
+  height: 56px;
+  background-color: #3d58a6;
+}
+.article3-div p {
+  font-size: 48px;
+  color: white;
+}
+.article3 h2 {
+  font-size: 20px;
+  margin-bottom: 18px;
+}
+.article3-right-div {
+  width: 850px;
+  display: inline-block;
+}
+.article3-left-div {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 39px;
+}
+.article3-right-div p {
+  font-size: 16px;
+}
+
+/* add footer */
+.footer-div {
+  width: 2px;
+  height: 30px;
+  background-color: #363e97;
+  display: inline-block;
+  margin-right: 35px;
+  margin-left: 35px;
+  margin-top: 50px;
+}
+.footer-div1 {
+  display: inline-block;
+}
+.footer-div2 {
+  display: inline-block;
+}
+footer {
+  margin-left: 42px;
+}

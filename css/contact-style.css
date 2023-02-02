@@ -1,0 +1,72 @@
+.contact-header {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 30px 50px 0 30px;
+}
+.contact-nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+.contact-li {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 30px 18px 0 0;
+  font-size: 22px;
+  color: #3d58a6;
+}
+.information {
+  color: #ee4036;
+}
+
+/* add contact-section */
+.contact-section {
+  background-color: #e6e6e6;
+  width: 1366px;
+  margin-top: 25px;
+}
+.contact-left-div {
+  display: inline-block;
+  vertical-align: top;
+  margin: 50px 63px 0 97px;
+}
+.contact-right-div {
+  display: inline-block;
+  vertical-align: top;
+  width: 848px;
+  height: 465px;
+  margin: 39px 95px 66px 0;
+}
+.contact-right-div iframe {
+  width: 100%;
+}
+.contact-left-div p {
+  font-size: 20px;
+  color: #3d58a6;
+}
+.contact-left-div span {
+  color: #808080;
+  font-size: 16px;
+}
+.contact-left-div a {
+  color: #000000;
+  font-size: 16px;
+}
+/* add footer icons */
+.fb-block {
+  display: inline-block;
+}
+.youtube-block {
+  display: inline-block;
+}
+footer {
+  margin-left: 107px;
+  margin-top: 31px;
+}
+.simple-div {
+  width: 2px;
+  height: 30px;
+  background-color: #363e97;
+  display: inline-block;
+  margin-right: 35px;
+  margin-left: 35px;
+}
